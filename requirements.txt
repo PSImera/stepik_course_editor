@@ -1,0 +1,7 @@
+python-dotenv==1.2.1
+requests==2.32.5
+beautifulsoup4==4.14.2
+PyYAML==6.0.3
+langchain==1.0.3
+langchain-openai==1.0.2
+tiktoken==0.12.0
